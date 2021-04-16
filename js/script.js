@@ -26,3 +26,7 @@ function numbersGame() {
 
 const startGame = numbersGame();
 startGame(); 
+
+
+
+
